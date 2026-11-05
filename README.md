@@ -1,6 +1,6 @@
 # Developing a Neural Network Classification Model
-# NAME: ARAVIND G
-# REG NO: 212224240014
+# NAME: Aaron Mariyan A
+# REG NO: 212224040004
 ## AIM
 To develop a neural network classification model for the given dataset.
 
